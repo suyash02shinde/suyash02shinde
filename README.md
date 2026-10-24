@@ -49,8 +49,7 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
 </p>
 
-> Keep only the technologies you can explain and use. Remove any skill you haven't learned yet.
-
+>
 ## 🧠 Coding Profiles
 
 <div align="center">
