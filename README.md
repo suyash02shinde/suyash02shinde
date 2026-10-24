@@ -94,16 +94,6 @@
 - **Planned stack:** Python, FastAPI, React, SQL, machine learning, Plotly.
 - **Repository:** [Add project repository link](https://github.com/suyash02shinde)
 
-### 📊 Data Analytics Dashboard
-- **Goal:** Explore business KPIs, revenue trends, and customer performance.
-- **Planned stack:** SQL, Python, Power BI.
-- **Repository:** [Add project repository link](https://github.com/suyash02shinde)
-
-### 🧠 Machine Learning Classification
-- **Goal:** Build and evaluate a machine learning classification model.
-- **Planned stack:** Python, Pandas, NumPy, Scikit-learn.
-- **Repository:** [Add project repository link](https://github.com/suyash02shinde)
-
 ## 🎯 Current Goals
 
 - [ ] Improve DSA and problem-solving skills.
@@ -114,12 +104,10 @@
 
 ## 🏆 Achievements & Certifications
 
-- **LeetCode:** Add your verified problems-solved count or milestone here.
-- **HackerRank:** Add earned badges, stars, skill certifications, or verified certificates here.
-- **Certifications:** Add completed courses with certificate links here.
-- **Projects:** Add measurable results after testing and completing each project.
+- **LeetCode:** https://leetcode.com/u/suyash08shinde/
+- **HackerRank:** https://www.hackerrank.com/profile/suyash02shinde
 
-*No unverified ranks, certificates, or achievements are claimed.*
+
 
 ## 📫 Connect With Me
 
